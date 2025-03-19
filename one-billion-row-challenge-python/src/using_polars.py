@@ -1,6 +1,6 @@
 import polars as pl
 
-# Created by Koen Vossen, 
+# Created by Koen Vossen , 
 # Github: https://github.com/koenvo
 # Twitter/x Handle: https://twitter.com/mr_le_fox
 # https://x.com/mr_le_fox/status/1741893400947839362?s=20
