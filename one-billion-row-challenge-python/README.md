@@ -5,7 +5,7 @@ Esta tabela compara o desempenho de diferentes ferramentas ao processar **100.00
 <table>
   <thead>
     <tr>
-      <th>Bibliotecas</th>
+      <th>Biblioteca</th>
       <th>100 mil linhas</th>
       <th>1 milhão linhas</th>
     </tr>
