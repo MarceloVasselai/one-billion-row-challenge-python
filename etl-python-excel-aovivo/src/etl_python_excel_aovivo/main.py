@@ -1,4 +1,4 @@
-# pandas para ler csv  e  transformar em dataframe
+# pandas para ler csv e transformar em dataframe
 import pandas as pd
 
 # pandas profile (ydata_profiling)
