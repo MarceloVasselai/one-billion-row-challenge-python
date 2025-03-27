@@ -51,7 +51,7 @@ def processar_temperaturas(path_do_txt: Path):
         results[station] = (min_temp, mean_temp, max_temp)
 
     print("Estatística calculada. Ordenando...")
-    # Ordenando os resultados pelo nome da estação
+    # Ordenando os resultados  pelo nome da estação
     sorted_results = dict(sorted(results.items()))
 
     # Formatando os resultados para exibição
